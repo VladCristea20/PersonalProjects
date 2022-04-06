@@ -1,0 +1,16 @@
+﻿<Window x:Class="Notepad.View.FindDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notepad.View"
+        mc:Ignorable="d"
+        Title="FindDialog" Height="240" Width="250">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Name="textBox" Margin="75,78,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Find" HorizontalAlignment="Left" Margin="37,74,0,0" VerticalAlignment="Top"/>
+        <Button Content="Find" HorizontalAlignment="Left" Margin="108,122,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <CheckBox Content="All tabs" Name="checkBox" HorizontalAlignment="Left" Margin="75,159,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
