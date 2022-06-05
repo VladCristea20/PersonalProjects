@@ -1,0 +1,25 @@
+﻿  SfmlData.cpp
+C:\Users\Vlad\source\repos\AG\TemaDijsktra\TemaDijsktra\SfmlData.cpp(4,41): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Vlad\source\repos\AG\TemaDijsktra\TemaDijsktra\SfmlData.cpp(4,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Vlad\source\repos\AG\TemaDijsktra\TemaDijsktra\SfmlData.cpp(94,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Vlad\source\repos\AG\TemaDijsktra\TemaDijsktra\SfmlData.cpp(94,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Vlad\source\repos\AG\TemaDijsktra\TemaDijsktra\SfmlData.cpp(121,49): warning C4018: '<': signed/unsigned mismatch
+  TemaDijsktra.cpp
+  Generating Code...
+  TemaDijsktra.vcxproj -> C:\Users\Vlad\source\repos\AG\TemaDijsktra\Debug\TemaDijsktra.exe
