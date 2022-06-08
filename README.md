@@ -1,7 +1,8 @@
 # PersonalProjects
 These are a few of my personal projects.
 
-The project may come with a few errors for the relative paths of the aditional include libraries and such.
+
+The Luxembourg project may come with a few errors for the relative paths of the aditional include libraries and such.
 I will leave a few instructions as to how to fix all the possible issues.
 In the project properties :
 -the c/c++ sub property should have the Aditional Include Directories set to the relative paths of "..\sfml\include;" ; The setting should be in All configurations mode
